@@ -1,0 +1,14 @@
+.story {
+  display: flex;
+  padding: 3rem 20rem 3rem 20rem;
+}
+.story div {
+  margin-left: 1rem;
+  text-align: center;
+}
+
+.story img {
+  border-radius: 100%;
+  width: 80px;
+  height: 80px;
+}
